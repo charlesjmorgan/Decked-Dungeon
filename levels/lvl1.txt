@@ -1,0 +1,2 @@
+100,100,10,1,sharpen,3,defend,3,attack,4,lesser heal,3,disarm,1
+50,50,8,1,sharpen,3,defend,3,attack,4

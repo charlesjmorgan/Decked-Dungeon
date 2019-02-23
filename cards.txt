@@ -1,0 +1,8 @@
+Sharpen,Damage +5 Cards+1,change_attack_damage,5,self,draw_cards,1,self
+Defend,Armor +10 Cards +2,change_armor,10,self,draw_cards,1,self
+Attack,Enemy Health dmg*-6,get_attacked,-6,enemy
+Lesser Heal,Heals your character 5 health and draws a card,change_health,10,self,draw_cards,1,self
+Greater Heal,Heals your character 12 health,change_health,12,self
+Obsessive inspiration,Draw 3 cards and lose your armor,draw_cards,3,self,change_armor,-1000,self
+Disarm,Lower enemy attack by 3 and gain an action,change_actions,1,self,change_attack_damage,-3,enemy
+Reckless Study,Draw 3 cards and chose and discard 3 cards,draw_cards,3,self,discard,3,self

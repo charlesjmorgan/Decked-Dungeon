@@ -1,0 +1,2 @@
+100,100,10,1,sharpen,3,defend,3,attack,4
+50,50,8,1,sharpen,3,defend,3,attack,4
